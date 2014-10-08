@@ -1,0 +1,1 @@
+AGS_CONN = 'C:/Path/to/ArcGIS/Server/connection/file/hostname_6080_admin.ags'
